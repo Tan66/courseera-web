@@ -1,2 +1,2 @@
-# courseera-web
+# coursera-web
 web tutorial 
